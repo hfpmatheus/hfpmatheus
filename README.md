@@ -1,6 +1,6 @@
 ## Short description:
 
-Hey there! I'm Matheus. My goals are to increase companies revenue and reduce their costs through data products. For that, I'm always pushing myself to learn more developing personal Data Science projects. All of them are detailed here. 🙂
+Hey there! I'm Matheus. My goals are to increase companies revenue and reduce their costs through data products. For that, I'm always pushing myself to learn more through developing personal Data Science projects. All of them are detailed here, on my repositories. 🙂
 
 <div align="center">
   <a href="https://github.com/hfpmatheus">
