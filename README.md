@@ -7,8 +7,8 @@ Hey there! I'm Matheus. My goals are to increase companies revenue and reduce th
   <img height="200em" img width="49%" src="https://github-readme-stats.vercel.app/api?username=hfpmatheus&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="200em" img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfpmatheus&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
- 
-  ## Tools:
+  
+ ## Tools:
   
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -19,9 +19,13 @@ Hey there! I'm Matheus. My goals are to increase companies revenue and reduce th
   
 </div>
           
-  ## Connect with me!
+## Connect with me!
   
 <div> 
   <a href = "mailto:matheushffp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheushfp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+## Projects:
+  
+Check my Data Science Projects Portfolio clicking [here](https://hfpmatheus.github.io/portfolio_projetos/). You will be able to see a detailed description of all my habilities, tools, experiences and projects.
